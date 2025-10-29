@@ -98,3 +98,7 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 /Tool/jte-classes
+/Unity/obj
+/Unity/Temp
+/Unity/Library
+/Unity/Logs
