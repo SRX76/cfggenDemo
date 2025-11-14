@@ -49,7 +49,10 @@
       "name": "package.openupm.com",
       "url": "https://package.openupm.com",
       "scopes": [
-        "com.tuyoogame.yooasset"
+        "com.tuyoogame.yooasset",
+        "com.coffee.softmask-for-ugui",
+        "com.coffee.ui-particle",
+        "com.silverdale.asset-reference-viewer"
       ]
     }
   ]
